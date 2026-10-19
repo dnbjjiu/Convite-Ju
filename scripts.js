@@ -9,7 +9,7 @@ const CONFIG = {
   comidas: [['🍔','Hambúrguer'],['🍣','Sushi'],['🍝','Massas'],['🍦','Sorvete'],['🍕','Pizza'],['🍻','Cerva']],
   // TROCAS FUTURAS DE ATIVIDADES / LUGARES: [emoji, nome].
   atividades: [['🍽️','Restaurante'],['🚶','Caminhada'],['🎬','Cinema'],['🍻','Happy our'],['🎡','Parque'],['🕯️','Jantar caseiro'],],
-  provocacoes: ['Tem certeza, gatinha? 🥺','Pensa com carinho, meu bem…','-  com  -  é  +','Aparentemente você está apertando no lugar errado 😂','Arroganti 😂''Vai, linda… o SIM está te esperando ♥','Tenho o dia inteiro pra esperar', 'Vai negar comida pro down? 🥺' ]
+  provocacoes: ['Tem certeza, gatinha? 🥺','Pensa com carinho, meu bem…','-  com  -  é  +','Aparentemente você está apertando no lugar errado 😂','Arroganthi 😂''Vai, linda… o SIM está te esperando ♥','Tenho o dia inteiro pra esperar', 'Vai negar comida pro down? 🥺' ]
 };
 // Estado apenas em memória: atualizar a página reinicia o convite.
 const state = { step: 0, date: '', time: '18:00', food: '', activity: '', attempts: 0 };
